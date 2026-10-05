@@ -12,7 +12,7 @@
 ---
 
 <details open>
-<summary><h2>Year 1 (2025/26)</h2></summary>
+<summary><h2>Year 1 (2026/27)</h2></summary>
 
 ### First Semester
 
@@ -26,7 +26,7 @@
 </details>
 
 <details>
-<summary><h2>Year 2 (2026/27)</h2></summary>
+<summary><h2>Year 2 (2027/28)</h2></summary>
 
 
 </details>
