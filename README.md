@@ -28,16 +28,5 @@
 <details>
 <summary><h2>Year 2 (2026/27)</h2></summary>
 
-### First Semester
-
-| Course | Content | Status |
-|---|---|:---:|
-| [Course name](#) | 📖 Definitions | ⏳ |
-
-### Second Semester
-
-| Course | Content | Status |
-|---|---|:---:|
-| [Course name](#) | 📖 Definitions | ⏳ |
 
 </details>
