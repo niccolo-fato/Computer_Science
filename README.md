@@ -9,7 +9,7 @@
 > [!NOTE]
 > For some practical exams for which there are no notes (marked with `*`), the link points to my repository associated with that specific exam.
 
-**Legend:** 📖 Definitions · 🧮 Formulas · ✏️ Exercises · 💻 Project · ✅ Done · 🔄 In progress · ⏳ Upcoming
+**Legend:** 📖 Definitions · 🧮 Formulas · ✏️ Exercises · 💻 Project · ✅ Done · 🔄 In progress · ⏳ Upcoming · ❌ Not done
 
 ---
 
@@ -20,20 +20,10 @@
 
 | Course | Content | Status |
 |---|---|:---:|
-| [Big Data Computing](#) | 📖 Definitions | ✅ |
-| [Distributed Systems](#) | 📖 Definitions · 🧮 Formulas · ✏️ Exercises | ✅ |
-| [Computer Network Performance](#) | 📖 Definitions · 🧮 Formulas · ✏️ Exercises | ✅ |
-| [Computer Vision\*](#) | 💻 Project | ✅ |
+| [Computer Network Performance](#) | 📖 Definitions · 🧮 Formulas · ✏️ Exercises | ❌ |
 
-### Second Semester
 
-| Course | Content | Status |
-|---|---|:---:|
-| [Concurrent Systems](#) | 📖 Definitions · 🧮 Formulas | ✅ |
-| [Advanced Architectures](#) | ✏️ Exercises · 💻 [Project](#) | ✅ |
-| [Cloud Computing\*](#) | 💻 Project | ✅ |
-| [Data Management for Data Science\*](#) | 💻 Project | ✅ |
-| [Human Computer Interaction on the Web\*](#) | 💻 Project | ✅ |
+
 
 </details>
 
