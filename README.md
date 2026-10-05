@@ -7,8 +7,7 @@
 </p>
 
 > [!NOTE]
-> For some practical exams for which there are no notes (marked with `*`), the link points to my repository associated with that specific exam.
-
+> Notes, formulas and exercises from my Computer Science studies at Sapienza University of Rome.
 ---
 
 <details open>
