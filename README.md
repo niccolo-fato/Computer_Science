@@ -17,7 +17,7 @@
 
 | Course | Content | Status |
 |---|---|:---:|
-| [Computer Network Performance](#) | 📖 Definitions · 🧮 Formulas · ✏️ Exercises | ✅ |
+| [Computer Network Performance](Year1FirstSemester/Computer Network Performance.pdf) | 📖 Definitions · 🧮 Formulas · ✏️ Exercises | ✅ |
 
 
 
