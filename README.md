@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Sapienza-Università_di_Roma-8B0000?style=flat-square">
   <img src="https://img.shields.io/badge/Year-1_/_2-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Exams-9-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Exams-1-green?style=flat-square">
 </p>
 
 > [!NOTE]
