@@ -9,8 +9,6 @@
 > [!NOTE]
 > For some practical exams for which there are no notes (marked with `*`), the link points to my repository associated with that specific exam.
 
-**Legend:** 📖 Definitions · 🧮 Formulas · ✏️ Exercises · 💻 Project · ✅ Done · 🔄 In progress · ⏳ Upcoming · ❌ Not done
-
 ---
 
 <details open>
@@ -20,7 +18,7 @@
 
 | Course | Content | Status |
 |---|---|:---:|
-| [Computer Network Performance](#) | 📖 Definitions · 🧮 Formulas · ✏️ Exercises | ❌ |
+| [Computer Network Performance](#) | 📖 Definitions · 🧮 Formulas · ✏️ Exercises | ✅ |
 
 
 
