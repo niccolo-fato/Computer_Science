@@ -17,7 +17,7 @@
 
 | Course | Content | Status |
 |---|---|:---:|
-| [Computer Network Performance](../../raw/main/Year1FirstSemester/Computer%20Network%20Performance/Computer%20Network%20Performance.pdf) | 📖 Definitions · 🧮 Formulas · ✏️ Exercises | ✅ |
+| [Computer Network Performance](../../raw/main/Year1FirstSemester/Computer%20Network%20Performance.pdf) | 📖 Definitions · 🧮 Formulas · ✏️ Exercises | ✅ |
 
 
 
