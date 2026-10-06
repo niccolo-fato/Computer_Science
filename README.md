@@ -15,9 +15,9 @@
 
 ### First Semester
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center">
+    <td align="center" valign="top" width="33%">
       <a href="../../raw/main/Year1FirstSemester/Computer_Network_Performance.pdf">
         <img src="cover/Computer_Network_Performance.jpg" width="180px" height="250px" alt="Preview Computer Network Performance" /><br />
         <b>Computer Network Performance</b>
@@ -29,7 +29,7 @@
       <br />
       <img src="https://img.shields.io/badge/Status-In_Progress_⚠️-eab308?style=flat-square" />
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="33%">
       <a href="../../raw/main/Year1FirstSemester/Machine_Learning.pdf">
         <img src="cover/Machine_Learning.jpg" width="180px" height="250px" alt="Preview Machine Learning" /><br />
         <b>Machine Learning</b>
@@ -40,7 +40,7 @@
       <br />
       <img src="https://img.shields.io/badge/Status-In_Progress_⚠️-eab308?style=flat-square" />
     </td>
-   <td align="center">
+   <td align="center" valign="top" width="33%">
       <a href="../../raw/main/Year1FirstSemester/Models_Of_Computation.pdf">
         <img src="cover/Models_Of_Computation.jpg" width="180px" height="250px" alt="Preview Models Of Computation" /><br />
         <b>Models Of Computation</b>
@@ -51,6 +51,17 @@
       <img src="https://img.shields.io/badge/✏️-Exercises-2b3137?style=flat-square" />
       <br />
       <img src="https://img.shields.io/badge/Status-In_Progress_⚠️-eab308?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/github/last-commit/niccolo-fato/Computer_Science?path=Year1FirstSemester/Computer_Network_Performance.pdf&label=Last%20update:&labelColor=161b22&color=161b22&style=flat-square" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/last-commit/niccolo-fato/Computer_Science?path=Year1FirstSemester/Machine_Learning.pdf&label=Last%20update:&labelColor=161b22&color=161b22&style=flat-square" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/last-commit/niccolo-fato/Computer_Science?path=Year1FirstSemester/Models_Of_Computation.pdf&label=Last%20update:&labelColor=161b22&color=161b22&style=flat-square" />
     </td>
   </tr>
 </table>
