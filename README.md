@@ -66,6 +66,21 @@
   </tr>
 </table>
 
+### Exercises
+
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="../../raw/main/Year1FirstSemester/Exercises/Models_Es.pdf">
+        <img src="cover/Models_Es.jpg" width="180px" height="250px" alt="Preview Models Of Computation Exercises" /><br />
+        <b>Models Of Computation Exercises</b>
+      </a>
+      <br /><br />
+      <img src="https://img.shields.io/badge/✏️-Exercises-2b3137?style=flat-square" />
+      <br />
+      <img src="https://img.shields.io/badge/Status-In_Progress_⚠️-eab308?style=flat-square" />
+    </td>
+</table>
 
 </details>
 
